@@ -17,8 +17,7 @@ namespace Activities_Proyect.Controllers
 
         public int promo()
         {
-            return 1000;
-            
+            return 1000;            
         }
     }
 }
